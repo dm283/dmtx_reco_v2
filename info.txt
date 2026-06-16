@@ -1,0 +1,6 @@
+START APPLICATION
+python dmtx_pdf_reco_ver_2.py
+fastapi dev fastapi_upload_files.py
+
+
+if necessary - add to system environments variables path to ...\poppler-23.08.0\Library\bin\
