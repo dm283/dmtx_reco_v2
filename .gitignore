@@ -1,0 +1,7 @@
+venv/
+Income/
+Outcome/
+Processings/
+test-files/*.pdf
+test-files/*
+config.ini
